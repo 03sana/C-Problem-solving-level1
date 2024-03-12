@@ -1,0 +1,4 @@
+﻿  Problem37-SumUntil-99.cpp
+C:\Users\sanan\source\repos\Problem37-SumUntil-99\Problem37-SumUntil-99\Problem37-SumUntil-99.cpp(23,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sanan\source\repos\Problem37-SumUntil-99\Problem37-SumUntil-99\Problem37-SumUntil-99.cpp(33,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Problem37-SumUntil-99.vcxproj -> C:\Users\sanan\source\repos\Problem37-SumUntil-99\x64\Debug\Problem37-SumUntil-99.exe

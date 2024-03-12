@@ -1,0 +1,4 @@
+﻿  Problem38-PrimeNumber.cpp
+C:\Users\sanan\source\repos\Problem38-PrimeNumber\Problem38-PrimeNumber\Problem38-PrimeNumber.cpp(24,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\source\repos\Problem38-PrimeNumber\Problem38-PrimeNumber\Problem38-PrimeNumber.cpp(53,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Problem38-PrimeNumber.vcxproj -> C:\Users\sanan\source\repos\Problem38-PrimeNumber\x64\Debug\Problem38-PrimeNumber.exe
