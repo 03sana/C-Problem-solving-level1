@@ -1,0 +1,21 @@
+﻿  Project5.cpp
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(46,13): warning C4305: 'initializing': truncation from 'int' to 'short'
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(46,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(28,19): warning C4101: 'v12': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(14,18): warning C4101: 'v3': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(20,20): warning C4101: 'v7': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(12,16): warning C4101: 'v2': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(26,19): warning C4101: 'v11': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(37,19): warning C4101: 'v17': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(35,10): warning C4101: 'v16': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(24,10): warning C4101: 'v10': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(22,21): warning C4101: 'v8': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(19,24): warning C4101: 'v6': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(34,17): warning C4101: 'v15': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(30,24): warning C4101: 'v13': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(16,15): warning C4101: 'v4': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(11,9): warning C4101: 'v1': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(32,17): warning C4101: 'v14': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(23,14): warning C4101: 'v9': unreferenced local variable
+C:\Users\sanan\source\repos\Project5\Project5\Project5.cpp(17,11): warning C4101: 'v5': unreferenced local variable
+  Project5.vcxproj -> C:\Users\sanan\source\repos\Project5\x64\Debug\Project5.exe

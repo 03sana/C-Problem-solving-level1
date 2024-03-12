@@ -1,0 +1,4 @@
+﻿  Problem21-CircleAreaAlongTheCircum.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem21-CircleAreaAlongTheCircum\Problem21-CircleAreaAlongTheCircum\Problem21-CircleAreaAlongTheCircum.cpp(9,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem21-CircleAreaAlongTheCircum\Problem21-CircleAreaAlongTheCircum\Problem21-CircleAreaAlongTheCircum.cpp(12,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Problem21-CircleAreaAlongTheCircum.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem21-CircleAreaAlongTheCircum\x64\Debug\Problem21-CircleAreaAlongTheCircum.exe

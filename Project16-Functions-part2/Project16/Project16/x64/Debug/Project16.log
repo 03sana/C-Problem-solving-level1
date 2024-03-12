@@ -1,0 +1,3 @@
+﻿  Project16.cpp
+C:\Users\sanan\source\repos\Project16\Project16\Project16.cpp(29,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project16.vcxproj -> C:\Users\sanan\source\repos\Project16\x64\Debug\Project16.exe

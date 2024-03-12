@@ -1,0 +1,5 @@
+﻿  Problem22-CircleAreaInIscoscelesTri.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem22-CircleAreaInIscoscelesTri\Problem22-CircleAreaInIscoscelesTri\Problem22-CircleAreaInIscoscelesTri.cpp(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem22-CircleAreaInIscoscelesTri\Problem22-CircleAreaInIscoscelesTri\Problem22-CircleAreaInIscoscelesTri.cpp(20,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem22-CircleAreaInIscoscelesTri\Problem22-CircleAreaInIscoscelesTri\Problem22-CircleAreaInIscoscelesTri.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem22-CircleAreaInIscoscelesTri.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem22-CircleAreaInIscoscelesTri\x64\Debug\Problem22-CircleAreaInIscoscelesTri.exe

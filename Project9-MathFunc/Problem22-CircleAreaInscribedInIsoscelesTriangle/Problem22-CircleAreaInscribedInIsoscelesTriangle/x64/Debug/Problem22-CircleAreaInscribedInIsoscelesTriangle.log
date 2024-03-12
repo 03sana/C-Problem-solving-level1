@@ -1,0 +1,4 @@
+﻿  Problem22-CircleAreaInscribedInIsoscelesTriangle.cpp
+C:\Users\sanan\source\repos\Problem22-CircleAreaInscribedInIsoscelesTriangle\Problem22-CircleAreaInscribedInIsoscelesTriangle\Problem22-CircleAreaInscribedInIsoscelesTriangle.cpp(13,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\source\repos\Problem22-CircleAreaInscribedInIsoscelesTriangle\Problem22-CircleAreaInscribedInIsoscelesTriangle\Problem22-CircleAreaInscribedInIsoscelesTriangle.cpp(20,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Problem22-CircleAreaInscribedInIsoscelesTriangle.vcxproj -> C:\Users\sanan\source\repos\Problem22-CircleAreaInscribedInIsoscelesTriangle\x64\Debug\Problem22-CircleAreaInscribedInIsoscelesTriangle.exe

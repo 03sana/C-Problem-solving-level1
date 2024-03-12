@@ -1,0 +1,4 @@
+﻿  Problem40-ServiceFeeAndSalesTax.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem40-ServiceFeeAndSalesTax\Problem40-ServiceFeeAndSalesTax\Problem40-ServiceFeeAndSalesTax.cpp(24,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem40-ServiceFeeAndSalesTax\Problem40-ServiceFeeAndSalesTax\Problem40-ServiceFeeAndSalesTax.cpp(25,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Problem40-ServiceFeeAndSalesTax.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem40-ServiceFeeAndSalesTax\x64\Debug\Problem40-ServiceFeeAndSalesTax.exe

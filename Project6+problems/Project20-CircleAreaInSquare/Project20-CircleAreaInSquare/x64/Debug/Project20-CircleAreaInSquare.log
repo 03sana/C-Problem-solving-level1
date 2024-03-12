@@ -1,0 +1,3 @@
+﻿  Project20-CircleAreaInSquare.cpp
+C:\Users\sanan\source\repos\Project20-CircleAreaInSquare\Project20-CircleAreaInSquare\Project20-CircleAreaInSquare.cpp(11,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project20-CircleAreaInSquare.vcxproj -> C:\Users\sanan\source\repos\Project20-CircleAreaInSquare\x64\Debug\Project20-CircleAreaInSquare.exe

@@ -1,0 +1,4 @@
+﻿  Problem18-CircleArea.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem18-CircleArea\Problem18-CircleArea\Problem18-CircleArea.cpp(20,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem18-CircleArea\Problem18-CircleArea\Problem18-CircleArea.cpp(23,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem18-CircleArea.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem18-CircleArea\x64\Debug\Problem18-CircleArea.exe

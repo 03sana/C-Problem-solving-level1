@@ -1,0 +1,4 @@
+﻿  Problem19-CircleAreaThroughDiameter.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem19-CircleAreaThroughDiameter\Problem19-CircleAreaThroughDiameter\Problem19-CircleAreaThroughDiameter.cpp(21,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem19-CircleAreaThroughDiameter\Problem19-CircleAreaThroughDiameter\Problem19-CircleAreaThroughDiameter.cpp(23,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem19-CircleAreaThroughDiameter.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem19-CircleAreaThroughDiameter\x64\Debug\Problem19-CircleAreaThroughDiameter.exe

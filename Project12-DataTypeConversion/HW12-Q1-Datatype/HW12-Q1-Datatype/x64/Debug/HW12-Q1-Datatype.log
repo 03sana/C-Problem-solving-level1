@@ -1,0 +1,3 @@
+﻿  HW12-Q1-Datatype.cpp
+C:\Users\sanan\source\repos\HW12-Q1-Datatype\HW12-Q1-Datatype\HW12-Q1-Datatype.cpp(27,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HW12-Q1-Datatype.vcxproj -> C:\Users\sanan\source\repos\HW12-Q1-Datatype\x64\Debug\HW12-Q1-Datatype.exe

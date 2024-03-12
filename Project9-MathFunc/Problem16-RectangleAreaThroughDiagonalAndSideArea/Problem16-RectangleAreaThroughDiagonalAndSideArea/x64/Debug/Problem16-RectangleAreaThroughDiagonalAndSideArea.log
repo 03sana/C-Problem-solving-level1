@@ -1,0 +1,3 @@
+﻿  Problem16-RectangleAreaThroughDiagonalAndSideArea.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem16-RectangleAreaThroughDiagonalAndSideArea\Problem16-RectangleAreaThroughDiagonalAndSideArea\Problem16-RectangleAreaThroughDiagonalAndSideArea.cpp(24,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem16-RectangleAreaThroughDiagonalAndSideArea.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem16-RectangleAreaThroughDiagonalAndSideArea\x64\Debug\Problem16-RectangleAreaThroughDiagonalAndSideArea.exe

@@ -1,0 +1,4 @@
+﻿  Problem20-CircleAreaInscribedInASquare.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem20-CircleAreaInscribedInASquare\Problem20-CircleAreaInscribedInASquare\Problem20-CircleAreaInscribedInASquare.cpp(21,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem20-CircleAreaInscribedInASquare\Problem20-CircleAreaInscribedInASquare\Problem20-CircleAreaInscribedInASquare.cpp(23,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem20-CircleAreaInscribedInASquare.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project9-MathFunc\Problem20-CircleAreaInscribedInASquare\x64\Debug\Problem20-CircleAreaInscribedInASquare.exe

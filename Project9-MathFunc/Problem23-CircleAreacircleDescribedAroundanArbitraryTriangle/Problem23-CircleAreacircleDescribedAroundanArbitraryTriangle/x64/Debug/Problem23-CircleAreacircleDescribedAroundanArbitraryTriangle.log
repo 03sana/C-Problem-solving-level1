@@ -1,0 +1,4 @@
+﻿  Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle.cpp
+C:\Users\sanan\source\repos\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle.cpp(12,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sanan\source\repos\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle.cpp(22,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle.vcxproj -> C:\Users\sanan\source\repos\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle\x64\Debug\Problem23-CircleAreacircleDescribedAroundanArbitraryTriangle.exe

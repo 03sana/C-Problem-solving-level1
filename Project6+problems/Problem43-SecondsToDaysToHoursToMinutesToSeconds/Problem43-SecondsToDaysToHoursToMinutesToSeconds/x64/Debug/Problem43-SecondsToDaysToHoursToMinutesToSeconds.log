@@ -1,0 +1,5 @@
+﻿  Problem43-SecondsToDaysToHoursToMinutesToSeconds.cpp
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem43-SecondsToDaysToHoursToMinutesToSeconds\Problem43-SecondsToDaysToHoursToMinutesToSeconds\Problem43-SecondsToDaysToHoursToMinutesToSeconds.cpp(35,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem43-SecondsToDaysToHoursToMinutesToSeconds\Problem43-SecondsToDaysToHoursToMinutesToSeconds\Problem43-SecondsToDaysToHoursToMinutesToSeconds.cpp(38,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem43-SecondsToDaysToHoursToMinutesToSeconds\Problem43-SecondsToDaysToHoursToMinutesToSeconds\Problem43-SecondsToDaysToHoursToMinutesToSeconds.cpp(41,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Problem43-SecondsToDaysToHoursToMinutesToSeconds.vcxproj -> C:\Users\sanan\OneDrive\Desktop\C++\Project6+problems\Problem43-SecondsToDaysToHoursToMinutesToSeconds\x64\Debug\Problem43-SecondsToDaysToHoursToMinutesToSeconds.exe
